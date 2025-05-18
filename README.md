@@ -3,11 +3,12 @@
 🎓 Master's in Data Science student at Rowan University  
 💼 Analytical and results-driven data professional with 2 years of experience in SQL, Python, and Power BI  
 
-I'm skilled at:
-- Building dashboards and visual analytics for business insights
-- Writing clean, efficient Python, SQL, and JavaScript code
-- Designing data pipelines, ETL processes, and database systems  
-I believe in doing things creatively — not just efficiently, but meaningfully.
+I specialize in:
+- Data modeling, dashboarding, and uncovering business insights  
+- KPI design, A/B testing, and performance tracking  
+- Translating complex datasets into actionable strategies across product and operations  
+
+I combine technical expertise with a strategic mindset to drive value through data. Passionate about solving problems and building creative solutions that matter.
 
 ---
 
@@ -73,9 +74,13 @@ I believe in doing things creatively — not just efficiently, but meaningfully.
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Quote I Live By
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> “Engineers like to solve problems. If there are no problems handily available, they will create their own problems.”  
+> — Scott Adams
+
+> “Without data, you're just another person with an opinion.”  
+> — W. Edwards Deming
 
 ---
 
