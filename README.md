@@ -86,4 +86,4 @@ I combine technical expertise with a strategic mindset to drive value through da
 
 ## 🔝 Top Contributed Repo
 
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=KanupriyaGuha&repo=REPO-NAME&theme=radical)](https://github.com/KanupriyaGuha/REPO-NAME)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=KanupriyaGuha&repo=Visa-Wizard&theme=radical)](https://github.com/KanupriyaGuha/Visa-Wizard)
