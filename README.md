@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Kanupriya Guha
 
 🎓 Master's in Data Science student at Rowan University  
-💼 2 years of experience in data analytics and full-stack development  
+💼 Analytical and results-driven data professional with 2 years of experience in SQL, Python, and Power BI  
 
 I'm skilled at:
 - Building dashboards and visual analytics for business insights
