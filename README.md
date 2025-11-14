@@ -2,7 +2,7 @@
 
 🎓 **Master’s in Data Science** – Rowan Univeristy, New Jersey (July 2025)  
 🚀 **AI/ML Engineer | Data Scientist | AI/ML Solutions Architect**  
-🌍 **Location**: New Jersey | 🌐 [Portfolio]([https://omkars-portfolio.netlify.app](https://kanupriyaguha-89api9q.gamma.site/)) | 🔗 [LinkedIn]([https://www.linkedin.com/in/omkar-shewale-805a86203/](https://www.linkedin.com/in/kanupriyaguha/)) |
+🌍 **Location**: New Jersey | 🌐 [Portfolio]([https://kanupriyaguha-89api9q.gamma.site](https://kanupriyaguha-89api9q.gamma.site/)) | 🔗 [LinkedIn]([https://www.linkedin.com/in/kanupriyaguha/](https://www.linkedin.com/in/kanupriyaguha/)) |
 
 
 ---
