@@ -1,89 +1,39 @@
-# Hi there 👋 I'm Kanupriya Guha
-
-🎓 Master's in Data Science student at Rowan University  
-💼 Analytical and results-driven data professional with 2 years of experience in SQL, Python, and Power BI  
-
-I specialize in:
-- Data modeling, dashboarding, and uncovering business insights  
-- KPI design, A/B testing, and performance tracking  
-- Translating complex datasets into actionable strategies across product and operations  
-
-I combine technical expertise with a strategic mindset to drive value through data. Passionate about solving problems and building creative solutions that matter.
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanupriyaguha/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/KanupriyaGuha)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guhakanupriya@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-**Programming & Scripting Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-
-**Visualization & BI Tools:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
-
-**Databases & Data Tools:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-
-**Cloud, Tools & Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-
-**Concepts & Methodologies:**  
-- Data Engineering, ETL & Pipelines  
-- Business Intelligence (BI)  
-- DBT Programming  
-- Machine Learning Workflows  
-- KPI Design & Dashboarding
-
----
-
-## 📊 GitHub Stats
-
-![Kanupriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanupriyaGuha&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaGuha&layout=compact&theme=radical)
-
----
-
-## ✍️ Quote I Live By
-
-> “Engineers like to solve problems. If there are no problems handily available, they will create their own problems.”  
-> — Scott Adams
-
-> “Without data, you're just another person with an opinion.”  
-> — W. Edwards Deming
-
----
-
-## 🔝 Top Contributed Repo
-
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=KanupriyaGuha&repo=Visa-Wizard&theme=radical)](https://github.com/KanupriyaGuha/Visa-Wizard)
+👋 Hi, I'm Kanupriya Guha
+🎓 Master’s in Data Science – Rowan University, NJ (May 2025) 🚀 Machine Learning Engineer | Data Scientist | AI/ML Solutions Architect 🌍 Location: NJ, USA | 🌐 Portfolio | 🔗 LinkedIn | 💻 GitHub
+About Me
+Machine Learning Engineer with 4+ years of experience delivering end-to-end AI/ML solutions, including scalable LLM-based applications, deep learning models, and cloud-native MLOps pipelines. Skilled in building CNNs, RNNs, and Transformer architectures with TensorFlow, PyTorch, and Scikit-learn. Strong expertise in deploying production-ready models using GPT-4, Claude, and LangChain for text summarization, Q&A, chatbots, and RAG-based systems. Adept at distributed data processing, deploying on AWS SageMaker and EC2, and orchestrating workflows with Docker, FastAPI, and MLflow. Passionate about translating business needs into impactful AI-driven solutions.
+💼 Professional Experience
+🔹 ServiceNow, NJ — ML Engineer
+Sept 2024 – Current
+Designed and deployed enterprise-grade generative AI solutions using GPT-3.5/4 and Claude for ticket summarization, document Q&A, and internal knowledge search.
+Built LLM-based pipelines with LangChain and FastAPI, enabling dynamic tool use, RAG workflows, and context-aware chatbot solutions with 90%+ response accuracy.
+Fine-tuned BERT and T5 models on domain-specific datasets, improving precision and reducing hallucination in generative tasks.
+Developed MLOps workflows with MLflow, Docker, and Kubernetes, enabling model monitoring, versioning, and rollbacks.
+Facilitated distributed model training on AWS SageMaker and EC2 by configuring cloud-based training environments.
+🔹 Neon IT Systems, India — Data Scientist
+Oct 2020 – July 2023
+Developed and deployed ML/DL models using TensorFlow, PyTorch, and Scikit-learn, including CNNs, Transformers, and RNNs for classification and forecasting.
+Led the design of a document summarization and Q&A engine using GPT-3 and Claude integrated with Snowflake, increasing user search efficiency by 40%.
+Implemented sentiment analysis and named entity recognition using Hugging Face Transformers and BERT with over 90% accuracy.
+Built interactive dashboards with Tableau and Power BI, supporting C-level strategy through real-time visual analytics.
+Operationalized predictive models using AWS SageMaker and GCP AI Platform, enabling automated deployment and real-time inference.
+Improved forecast accuracy by 20% for inventory optimization using RNN-based time-series models.
+🛠️ Skills
+Programming Languages: Python, R, Java, C++, SQL
+ML & DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, LightGBM
+LLMs & Generative AI: GPT-3, GPT-4, Claude, LangChain, Prompt Engineering, RAG
+Deep Learning: CNNs, RNNs, LSTMs, GANs
+NLP & Transformers: Hugging Face, BERT, T5, SpaCy, NLTK
+MLOps & Deployment: MLflow, Docker, Kubernetes, FastAPI, Flask, Streamlit, Airflow, REST APIs, CI/CD
+Cloud Platforms: AWS (SageMaker, Lambda, EC2), GCP (AI Platform, BigQuery), Azure ML
+Big Data & Processing: Apache Spark, Dask, Hadoop, Kafka, Snowflake
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Visualization & BI: Tableau, Power BI, Matplotlib, Seaborn
+Version Control: Git, GitHub, GitLab, Bitbucket
+🚀 Featured Projects
+💬 AI-Powered Customer Support Assistant
+Built chatbot using GPT-4 and LangChain agents, enabling SQL querying, dynamic Q&A, and API integration for internal support. Reduced ticket backlog by 35%.
+📚 RAG-based Knowledge Retrieval System
+Implemented vector-based retrieval using FAISS and LangChain to enhance LLM answers with document grounding and source attribution.
+📑 Document Summarization Tool
+Created a summarization engine using GPT-3 and Claude for policy and legal docs, saving 100+ hours/month for business users.
