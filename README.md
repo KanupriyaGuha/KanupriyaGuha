@@ -89,7 +89,7 @@ NavaJyoti International Journal of Multi-Disciplinary Research, Vol. 7, Issue 1,
 
 ## 📫 Contact Me
 
-- 📧 **Email:** kanupriyag01@gmail.com  
+- 📧 **Email:** kanupriyaguha25@gmail.com  
 - 🔗 **LinkedIn:** [kanupriyaguha](https://www.linkedin.com/in/kanupriyaguha/)
 
 ---
