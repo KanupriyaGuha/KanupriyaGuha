@@ -104,8 +104,9 @@ NavaJyoti International Journal of Multi-Disciplinary Research, Vol. 7, Issue 1,
 
 ## 📊 GitHub Stats
 
-![Kanupriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanupriyaGuha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaGuha&layout=compact&theme=radical)
+![Kanupriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanupriyaGuha&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaGuha&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
@@ -113,8 +114,7 @@ NavaJyoti International Journal of Multi-Disciplinary Research, Vol. 7, Issue 1,
 
 📧 **Email:** kanupriyaguha25@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/kanupriyaguha](https://www.linkedin.com/in/kanupriyaguha/)
-🌐 **Portfolio:** [kanupriyaguha-portfolio.knupriya-guha.workers.dev](https://kanupriyaguha-portfolio.knupriya-guha.workers.dev)
-
+🌐 **Portfolio:** [kanupriyaguha.lovable.app](https://kanupriyaguha.lovable.app)
 ---
 
 > *"Turning data into decisions. Ideas into action."*
