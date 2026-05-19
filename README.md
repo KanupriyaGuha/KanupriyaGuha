@@ -1,6 +1,3 @@
-Here it is — select all and copy:
-
-```markdown
 # 👋 Hi, I'm Kanupriya Guha
 
 🎓 **Master's in Data Science** — Rowan University, New Jersey (2025)
@@ -121,4 +118,3 @@ NavaJyoti International Journal of Multi-Disciplinary Research, Vol. 7, Issue 1,
 ---
 
 > *"Turning data into decisions. Ideas into action."*
-```
